@@ -23,3 +23,5 @@ var AWS_ACCESS_KEY = "***REMOVED***";
 var AWS_SECRET_ACCESS_KEY = "slkdajflsadf";
 var pwd = "askldfjlsadf";
 var API_KEY = "sdfasdf";
+var access_key = "sdfsdf";
+var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwd";
