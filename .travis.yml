@@ -8,4 +8,15 @@ before_install:
 script: 
   - docker run docker-react npm run test -- --coverage
 
-
+deploy: 
+  provider: elasticbeanstalk
+  region: "us-west-2"
+  app: "docker-react"                     #name of the app, it has to be the name described in EBS on AWS
+  env: "docker-env"                       #name of Environment under EBS
+  bucket-name: "elasticbeanstalk-us-west-2-305555511111"        #An S3 bucket is by default created when creating EBS
+  bucket-path: "docker-react"                                   #Same as app name
+  on: 
+    branch: master                                              #When you want to trigger the code to deploy to AWS, like when code pushed to Master branch
+  access_key_id: $AWS_ACCESS_KEY                                #This is given by AWS and stored under Env var of Travis CI
+  secret_acess_key: 
+    secure: "$AWS_SECRET_KEY"                                   #Again the Env var but we have keep this in quote. As per docs we dont but Trainer says that we have to

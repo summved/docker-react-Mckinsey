@@ -15,3 +15,11 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+var user="xyz";
+var password="test123";
+
+***REMOVED***
+***REMOVED***
+var pwd = "askldfjlsadf";
+***REMOVED***
