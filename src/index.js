@@ -26,3 +26,4 @@ var API_KEY = "sdfasdf";
 var access_key = "sdfsdf";
 var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwd";
 var DSA_PRIVATE_KEY = "sdkflasaskdjfhjksdhfkdsjf";
+var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwasdlfsdfasdfd";
