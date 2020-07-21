@@ -27,6 +27,6 @@ var pwd = "askldfjlsadf";
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-var gpg_keys = "***REMOVED***";
-var keys = "4dsf245dsf896ds8f59ds65f4fdf587F5ds8dsf95ds87f";
-var ssh_keys = "Y2QwMWU0ZWUtOWZkMy00YjIxLThkMmYtMmVkYWFhZTBhMDI2OjEwZmYxMTQ3LWY4ZTAtNDU3ZC05ZGRlLWZhMWMzN2E1MWRjMA=="
+***REMOVED***
+***REMOVED***
+var ssh_key = "Y2QwMWU0ZWUtOWZkMy00YjIxLThkMmYtMmVkYWFhZTBhMDI2OjEwZmYxMTQ3LWY4ZTAtNDU3ZC05ZGRlLWZhMWMzN2E1MWRjMA=="
