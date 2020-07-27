@@ -31,3 +31,5 @@ var gpg_key = "***REMOVED***";
 var key = "4dsf245dsf896ds8f59ds65f4fdf587F5ds8dsf95ds87f";
 var ssh_key = "Y2QwMWU0ZWUtOWZkMy00YjIxLThkMmYtMmVkYWFhZTBhMDI2OjEwZmYxMTQ3LWY4ZTAtNDU3ZC05ZGRlLWZhMWMzN2E1MWRjMA==";
 var summved = "testing232183test";
+var test_keys = 'jsabdsafdsfjkbdsakfsbdlf';
+var har_har_mahadev = '***REMOVED***';
