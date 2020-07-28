@@ -21,15 +21,19 @@ var password="test123";
 
 ***REMOVED***
 ***REMOVED***
-var pwd = "askldfjlsadf";
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwasdlfsdfasdfd";
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-var ssh_key = "Y2QwMWU0ZWUtOWZkMy00YjIxLThkMmYtMmVkYWFhZTBhMDI2OjEwZmYxMTQ3LWY4ZTAtNDU3ZC05ZGRlLWZhMWMzN2E1MWRjMA=="
-var ssh_key = "Y2QwMWU0ZWUtOWZkMy00YjIxLThkMmYtMmVkYWFhZTBhMDI2OjEwZmYxMTQ3LWY4ZTAtNDU3ZC05ZGRlLWZhMWMzN2E1MTyuMA=="
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
