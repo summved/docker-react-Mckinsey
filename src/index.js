@@ -26,6 +26,7 @@ var API_KEY = "sdfasdf";
 var access_key = "sdfsdf";
 var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwd";
 var DSA_PRIVATE_KEY = "sdkflasaskdjfhjksdhfkdsjf";
+
 var AWS_SECRET_KEY = "TestKeyPassPwasdlfsdfasdfd";
 var DSA_PRIVATE_KEY = "My Private Key is here";
 var git_token = "$GIT_TOKEN";
@@ -37,3 +38,12 @@ var openssh_private_key = "mytest";
 var SUMMVED_Password = "Slsdfl";
 var AKC_TOKEN = "sakdfjlsdf";
 var summved = 'test';
+var summved2 = "testing232183test";
+var test_keys = 'jsabdsafdsfjkbdsakfsbdlf';
+var har_har_mahadev = '***REMOVED***';
+var har_har = '***REMOVED***';
+var har_hars = '***REMOVED***';
+var hars = '***REMOVED***';
+var mahardev = '***REMOVED***';
+var hars_hars = '***REMOVED***';
+
