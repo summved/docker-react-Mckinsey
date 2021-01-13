@@ -25,3 +25,6 @@ var har_hars = 'lknajankjclbsaljdf765943534m5n4b6';
 var hars = 'lknajankjclbsaljdf765943534m5n4b6';
 var mahardev = 'lknajankjclbsaljdf765943534m5n4b6';
 var hars_hars = 'lknajankjclbsaljdf765943534m5n4b6';
+
+var AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7R5K1FBD";
+var AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYvDcFwTIdQaES";
