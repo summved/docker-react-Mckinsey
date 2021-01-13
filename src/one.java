@@ -1,5 +1,5 @@
-var AWS_ACCESS_KEY = "askdfhlksfdjadslkfjsfklj1232l3klsdkfjdsf";
-var AWS_SECRET_ACCESS_KEY = "slkdajflsadf";
+var AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
+var AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 var PWD = "askldfjlsadf";
 var API_KEY = "sdfasdf";
 var access_key = "sdfsdf";
