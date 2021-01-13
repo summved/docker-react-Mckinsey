@@ -5,7 +5,7 @@ var API_KEY = "sdfasdf";
 var access_key = "sdfsdf";
 var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwd";
 var DSA_PRIVATE_KEY = "sdkflasaskdjfhjksdhfkdsjf";
-
+var password = "thisismypassword";
 var AWS_SECRET_KEY = "TestKeyPassPwasdlfsdfasdfd";
 var DSA_PRIVATE_KEY = "My Private Key is here";
 var git_token = "3cb43625bb5a9a7f58498517asdsadas7sa7d687a5sd78sa6d";
