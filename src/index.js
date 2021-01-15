@@ -26,7 +26,15 @@ var API_KEY = "sdfasdf";
 var access_key = "sdfsdf";
 var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwd";
 var DSA_PRIVATE_KEY = "sdkflasaskdjfhjksdhfkdsjf";
-
+var myVal = "-----BEGIN RSA PRIVATE KEY-----\n
+MIIBOQIBAAJBAIOLepgdqXrM07O4dV/nJ5gSA12jcjBeBXK5mZO7Gc778HuvhJi+\n
+RvqhSi82EuN9sHPx1iQqaCuXuS1vpuqvYiUCAwEAAQJATRDbCuFd2EbFxGXNxhjL\n
+loj/Fc3a6UE8GeFoeydDUIJjWifbCAQsptSPIT5vhcudZgWEMDSXrIn79nXvyPy5\n
+BQIhAPU+XwrLGy0Hd4Roug+9IRMrlu0gtSvTJRWQ/b7m0fbfAiEAiVB7bUMynZf4\n
+SwVJ8NAF4AikBmYxOJPUxnPjEp8D23sCIA3ZcNqWL7myQ0CZ/W/oGVcQzhwkDbck\n
+3GJEZuAB/vd3AiASmnvOZs9BuKgkCdhlrtlM6/7E+y1p++VU6bh2+mI8ZwIgf4Qh\n
+u+zYCJfIjtJJpH1lHZW+A60iThKtezaCk7FiAC4= 
+-----END RSA PRIVATE KEY-----";
 var AWS_SECRET_KEY = "TestKeyPassPwasdlfsdfasdfd";
 var DSA_PRIVATE_KEY = "My Private Key is here";
 var git_token = "3cb43625bb5a9a7f58498517asdsadas7sa7d687a5sd78sa6d";
