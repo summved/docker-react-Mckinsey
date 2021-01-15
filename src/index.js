@@ -33,7 +33,7 @@ loj/Fc3a6UE8GeFoeydDUIJjWifbCAQsptSPIT5vhcudZgWEMDSXrIn79nXvyPy5\n
 BQIhAPU+XwrLGy0Hd4Roug+9IRMrlu0gtSvTJRWQ/b7m0fbfAiEAiVB7bUMynZf4\n
 SwVJ8NAF4AikBmYxOJPUxnPjEp8D23sCIA3ZcNqWL7myQ0CZ/W/oGVcQzhwkDbck\n
 3GJEZuAB/vd3AiASmnvOZs9BuKgkCdhlrtlM6/7E+y1p++VU6bh2+mI8ZwIgf4Qh\n
-u+zYCJfIjtJJpH1lHZW+A60iThKtezaCk7FiAC4= 
+u+zYCJfIjtJJpH1lHZW+A60iThKtezaCk7FiAC4= \n
 -----END RSA PRIVATE KEY-----";
 var AWS_SECRET_KEY = "TestKeyPassPwasdlfsdfasdfd";
 var DSA_PRIVATE_KEY = "My Private Key is here";
