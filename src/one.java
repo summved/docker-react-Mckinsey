@@ -1,11 +1,11 @@
-var AWS_ACCESS_KEY = "askdfhlksfdjadslkfjsfklj1232l3klsdkfjdsf";
-var AWS_SECRET_ACCESS_KEY = "slkdajflsadf";
+var AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
+var AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 var PWD = "askldfjlsadf";
 var API_KEY = "sdfasdf";
 var access_key = "sdfsdf";
 var AWS_SECRET_ACCESS_KEY = "TestKeyPassPwd";
 var DSA_PRIVATE_KEY = "sdkflasaskdjfhjksdhfkdsjf";
-
+var password = "thisismypassword";
 var AWS_SECRET_KEY = "TestKeyPassPwasdlfsdfasdfd";
 var DSA_PRIVATE_KEY = "My Private Key is here";
 var git_token = "3cb43625bb5a9a7f58498517asdsadas7sa7d687a5sd78sa6d";
