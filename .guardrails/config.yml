@@ -1,0 +1,11 @@
+bundles: "auto"
+report:
+  pullRequest:
+    findings: "onChangedLinesOnly"
+    comment: true
+notifications:
+  slack:
+    notify: whenScanHasFindingsOnly
+    enabled: true
+    webhookUrl: https://bc8af8d23047312027dda779a54fe138.m.pipedream.net
+useGitClone: false
